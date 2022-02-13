@@ -1,2 +1,4 @@
 # Sign-up Form
-This is an exercise in recreating a sign-up form from design assets.
+This is an exercise in recreating a sign-up form from design assets using intermediate css.
+## Description
+A [design file](https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/sign-up-form.png) was provided for the final expected output of the site. There was additional info about the background and border colors, but the process of approaching the design was left entirely to the programmer. During the course of making this, I learned about the different ways on how to 'reset' the css with the goal of making it somewhat standardized accross web browsers. [Normalize](https://necolas.github.io/normalize.css/) has been helpful in that respect. The project was provided by [the odin project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/sign-up-form). The end output can be seen [here](https://libmartinito.github.io/sign-up-form).
